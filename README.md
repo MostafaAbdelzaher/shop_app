@@ -1,6 +1,7 @@
-# untitled
-
+Shopa app 
 A new Flutter project.
+![1](https://user-images.githubusercontent.com/86397791/157162107-68d39467-c69a-4253-8694-5050e017384f.png)
+![2](https://user-images.githubusercontent.com/86397791/157162119-31fb5ff3-bd1f-41b7-b2ef-8cb8c6b12516.png)
 
 ## Getting Started
 
